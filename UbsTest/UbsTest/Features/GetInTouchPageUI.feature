@@ -1,5 +1,5 @@
 ﻿Feature: GetInTouchPageUI
-In order to verify that I can successfully submit 'Get In Touch'
+In order to verify that I can successfully submit 'Get In Touch' form
 I want to run these tests
 
 Background: 
